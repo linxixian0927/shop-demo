@@ -1,0 +1,3 @@
+cmbi\shop\service\member\MemberApplication.class
+cmbi\shop\service\member\fegin\WeixinFeginClient.class
+cmbi\shop\service\member\impl\MemberServiceImpl.class

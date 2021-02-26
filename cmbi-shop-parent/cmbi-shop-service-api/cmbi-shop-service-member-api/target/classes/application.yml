@@ -1,0 +1,8 @@
+####swagger相关配置
+swagger:
+  base-package: cmbi.shop.service.api
+  title: 会员模块
+  description: 会员相关接口
+  version: 1.1
+  contact:
+    name: 香蕉
